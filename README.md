@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Edward Verbetsky
 - 👀 My interests are: study, science, math, physics, code
-- 🌱 I’m study in Lomonosov Moscow State University
-- 💞️ I’am looking to collaborate on for new skills and experience
+- 🌱 Student of Lomonosov Moscow State University
+- 💞️ Looking for new skills and experience
 - 📫 My contact: verbasik2018gmail.com
