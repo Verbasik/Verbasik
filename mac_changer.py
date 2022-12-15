@@ -6,8 +6,11 @@ import optparse # Парсер для параметров командной с
 
 parser = optparse.OptionParser()
 parser.add_option("-i", "--interface", dest = "interface", help = "Interface to change it's MAC adress")
+parser.add_option("-m", "--mac", dest = "new_mac", help = "New MAC adress")
 
-interface = input ("interface > ")
+(options, arguments) = parser.parse_args() # Метод parse_args возвращает два набора информации от пользователя: перменные и опции. Example (options:wlan0, arguments:--interface) 
+
+interface = options.interface
 
 random_list_for_mac_changer = []
 
@@ -30,3 +33,5 @@ def mac_changer ():
 
 random_numbers_for_mac()
 mac_changer()
+
+print("Changing MAC adress for {} to {}".format(interface, random_list_for_mac_changer))
