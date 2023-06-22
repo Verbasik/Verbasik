@@ -7,7 +7,7 @@
 
 ### About Me :
 
-<p align="left">
+<div id="header" align="left">
 
 👨‍🔬 Я начинающий ученый из Москвы.
 
