@@ -21,6 +21,7 @@
 
 ---
 <summary><b>🔧&nbsp;&nbsp;Technologies & Tools</b></summary> 
+---
 
 📋 **Languages**  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
