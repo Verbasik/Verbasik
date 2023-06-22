@@ -22,8 +22,8 @@
 ---
 <div id="header" align="center">
   
-<summary><b>🔧&nbsp;&nbsp;Technologies & Tools</b></summary> 
----
+### Technologies & Tools
+
 <div id="header" align="left">
   
 📋 **Languages**  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
