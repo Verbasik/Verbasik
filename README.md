@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-<img src="https://tenor.com/ru/view/developer-gif-2461104302247665708" width="100"/>
+<img src="https://tenor.com/ru/view/developer-gif-2461104302247665708.gif" width="1200"/>
 
 ```markdowmn
 Hi, I'm Edward! 👋
