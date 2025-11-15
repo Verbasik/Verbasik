@@ -2,6 +2,7 @@
   
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+```markdowmn
 Hi, I'm Edward! 👋
 
 🚀 Staff ML Engineer • Production AI Systems at Scale
@@ -13,3 +14,4 @@ Hi, I'm Edward! 👋
 📧 verbasik@gmail.com | Telegram: @Verbasik
 
 🔗 LinkedIn: https://www.linkedin.com/in/verbasik/
+```
